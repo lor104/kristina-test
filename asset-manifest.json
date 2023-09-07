@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/kristinabeaubien/static/css/main.eb288195.css",
-    "main.js": "/kristinabeaubien/static/js/main.eba23eea.js",
-    "static/js/787.941b2b26.chunk.js": "/kristinabeaubien/static/js/787.941b2b26.chunk.js",
-    "static/media/gayatri-malhotra-CI9N__WXvrA-unsplash.jpg": "/kristinabeaubien/static/media/gayatri-malhotra-CI9N__WXvrA-unsplash.0f5c10319dd81cf36ca7.jpg",
-    "static/media/luca-bravo-Fsw4uEDuQTY-unsplash.jpg": "/kristinabeaubien/static/media/luca-bravo-Fsw4uEDuQTY-unsplash.86858e82e9ad6fac5350.jpg",
-    "static/media/kristina-removebg-preview.png": "/kristinabeaubien/static/media/kristina-removebg-preview.e26e61f5abbae9d39f27.png",
-    "static/media/LibreBaskerville-Italic.ttf": "/kristinabeaubien/static/media/LibreBaskerville-Italic.2d0173e8937c8c1d7cb9.ttf",
-    "static/media/LibreBaskerville-Bold.ttf": "/kristinabeaubien/static/media/LibreBaskerville-Bold.ecfbab5016554edd8cd6.ttf",
-    "static/media/LibreBaskerville-Regular.ttf": "/kristinabeaubien/static/media/LibreBaskerville-Regular.d715efaee03330cadfda.ttf",
-    "static/media/Montserrat-Medium.ttf": "/kristinabeaubien/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
-    "static/media/Montserrat-Bold.ttf": "/kristinabeaubien/static/media/Montserrat-Bold.d0ca82d8ca07ba209aee.ttf",
-    "static/media/Montserrat-Regular.ttf": "/kristinabeaubien/static/media/Montserrat-Regular.94bb495fba6077f669ed.ttf",
-    "static/media/Allura-Regular.ttf": "/kristinabeaubien/static/media/Allura-Regular.a8518735f3912e9d4ba3.ttf",
-    "static/media/Kristina-Logo-no-text.png": "/kristinabeaubien/static/media/Kristina-Logo-no-text.2482b107a24ff208548a.png",
-    "index.html": "/kristinabeaubien/index.html",
-    "main.eb288195.css.map": "/kristinabeaubien/static/css/main.eb288195.css.map",
-    "main.eba23eea.js.map": "/kristinabeaubien/static/js/main.eba23eea.js.map",
-    "787.941b2b26.chunk.js.map": "/kristinabeaubien/static/js/787.941b2b26.chunk.js.map"
+    "main.css": "/static/css/main.0816f27c.css",
+    "main.js": "/static/js/main.cb3b6272.js",
+    "static/js/787.941b2b26.chunk.js": "/static/js/787.941b2b26.chunk.js",
+    "static/media/gayatri-malhotra-CI9N__WXvrA-unsplash.jpg": "/static/media/gayatri-malhotra-CI9N__WXvrA-unsplash.0f5c10319dd81cf36ca7.jpg",
+    "static/media/luca-bravo-Fsw4uEDuQTY-unsplash.jpg": "/static/media/luca-bravo-Fsw4uEDuQTY-unsplash.86858e82e9ad6fac5350.jpg",
+    "static/media/kristina-removebg-preview.png": "/static/media/kristina-removebg-preview.e26e61f5abbae9d39f27.png",
+    "static/media/LibreBaskerville-Italic.ttf": "/static/media/LibreBaskerville-Italic.2d0173e8937c8c1d7cb9.ttf",
+    "static/media/LibreBaskerville-Bold.ttf": "/static/media/LibreBaskerville-Bold.ecfbab5016554edd8cd6.ttf",
+    "static/media/LibreBaskerville-Regular.ttf": "/static/media/LibreBaskerville-Regular.d715efaee03330cadfda.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.a281f04d4c8926e7dea1.ttf",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.d0ca82d8ca07ba209aee.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.94bb495fba6077f669ed.ttf",
+    "static/media/Allura-Regular.ttf": "/static/media/Allura-Regular.a8518735f3912e9d4ba3.ttf",
+    "static/media/Kristina-Logo-no-text.png": "/static/media/Kristina-Logo-no-text.2482b107a24ff208548a.png",
+    "index.html": "/index.html",
+    "main.0816f27c.css.map": "/static/css/main.0816f27c.css.map",
+    "main.cb3b6272.js.map": "/static/js/main.cb3b6272.js.map",
+    "787.941b2b26.chunk.js.map": "/static/js/787.941b2b26.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb288195.css",
-    "static/js/main.eba23eea.js"
+    "static/css/main.0816f27c.css",
+    "static/js/main.cb3b6272.js"
   ]
 }
