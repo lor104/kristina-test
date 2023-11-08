@@ -7,10 +7,10 @@ function About() {
   return (
     <div className='about'>
       <div className='about__section'>
-        <h2>
+        <h1>
           <span>A little bit about</span>
           My Journey in the Alternative Health Field
-        </h2>
+        </h1>
         <p>
           I began the exploration of the body and its amazing capacity to self-heal in 1996 when I graduated from Kikkawa Massage School in Toronto. I was fascinated by how the body works and felt drawn to learn more. From there, I deepened my understanding by studying Shiatsu with Ted Saito, followed by The Trager Approach, Myofascial work, and finally Osteopathy.
         </p>

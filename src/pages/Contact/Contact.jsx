@@ -6,7 +6,7 @@ function Contact() {
   return (
     <div className="contact">
       <div className="contact__section">
-        <h2>How To Book An Appointment</h2>
+        <h1>How To Book An Appointment</h1>
         <div className="contact__inner-section">
           <h3><span>Option One</span></h3>
           <p>You can call me at <Link to="tel:4165880642">416.588.0642</Link></p>
