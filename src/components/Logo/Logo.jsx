@@ -7,7 +7,7 @@ function Logo() {
     <div className='logo'>
         <img src={logo_img} alt="" />
         <p className='allura'>Kristina A. Beaubien</p>
-        <p className='mont'>Manual Osteopathy <span>|</span> Registered Massage Therapy</p>
+        <p className='mont'>Manual Osteopathy</p>
     </div>
   )
 }
